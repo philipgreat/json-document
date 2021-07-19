@@ -67,6 +67,26 @@ const doc={
   { type:"login",   text:"login page", sections:[]},
 
   { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+  { type:"table",   text:"table page",data:{dataSource,columns}},
+
+
+
+
   { type:"now",   text:"table page",data:{dataSource,columns}},
 
 
