@@ -20,7 +20,7 @@ const LoginForm = () => {
     >
       <Form.Item
         label="Username"
-        name="username"
+        name="username1"
         rules={[{ required: true, message: 'Please input your username!' }]}
       >
         <Input />
@@ -28,7 +28,7 @@ const LoginForm = () => {
 
       <Form.Item
         label="Password"
-        name="password"
+        name="password1"
         rules={[{ required: true, message: 'Please input your password!' }]}
       >
         <Input.Password />
